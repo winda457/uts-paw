@@ -1,10 +1,83 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Hello Cello",
+    "kategori": "Novel",
+    "penulis": "Nadia Ristivani",
+    "tahunTerbit": 2022,
+    "status": "dimiliki"
+  },
+  {
+    "id": "2",
+    "judul": "Laskar Pelangi",
+    "kategori": "Novel",
+    "penulis": "Andrea Hirata",
+    "tahunTerbit": 2005,
+    "status": "dibaca"
+  },
+  {
+    "id": "3",
+    "judul": "Riwayat singkat umat mansia",
+    "kategori": "Sejarah",
+    "penulis": "Yuval Noah Harari",
+    "tahunTerbit": 2011,
+    "status": "ingin dibeli"
+  },
+  {
+    "id": "4",
+    "judul": "Laut Bercerita",
+    "kategori": "Novel",
+    "penulis": "Nadia Ristivani",
+    "tahunTerbit": 2022,
+    "status": "dimiliki"
+  },
+  {
+    "id": "5",
+    "judul": "Nusantara",
+    "kategori": "Sejarah",
+    "penulis": "Bernard.H.M.Viekke",
+    "tahunTerbit": 1943,
+    "status": "dibaca"
+  },
+  {
+    "id": "6",
+    "judul": "Deep Learning",
+    "kategori": "Teknologi",
+    "penulis": "MIT Press",
+    "tahunTerbit": 2016,
+    "status": "ingin dibeli"
+  },
+  {
+    "id": "7",
+    "judul": "Designing Data-Intensive Applications",
+    "kategori": "Teknologi",
+    "penulis": "O'Reilly Media",
+    "tahunTerbit": 2017,
+    "status": "dimiliki"
+  },
+  {
+    "id": "8",
+    "judul": "One Piece",
+    "kategori": "Komik",
+    "penulis": "Eiichiro Oda",
+    "tahunTerbit": 1997,
+    "status": "dimiliki"
+  },
+  {
+    "id": "9",
+    "judul": "Naruto",
+    "kategori": "Komik",
+    "penulis": "Masashi Kishimoto",
+    "tahunTerbit": 1999,
+    "status": "dibaca"
+  },
+  {
+    "id": "10",
+    "judul": "Death Note",
+    "kategori": "Komik",
+    "penulis": "Tsugumi Ohba",
+    "tahunTerbit": 2003,
+    "status": "dimiliki"
   }
+
 ]
