@@ -1,0 +1,3 @@
+export default function TeksKosongk({ pesan = 'Tidak ada item yang cocok.' }) {
+  return <p className="Teks-kosong">{pesan}</p>
+}
