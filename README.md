@@ -9,7 +9,7 @@ Repo induk Ujian Tengah Semester Pengembangan Aplikasi Web, Informatika ITERA, s
 
 Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Kerangka berikut boleh dipakai:
 
-```markdown
+
 # Nama Aplikasi
 
 Nama: Winda Yanti Nainggolan
