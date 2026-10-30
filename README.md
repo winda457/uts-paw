@@ -4,11 +4,6 @@ Repo induk Ujian Tengah Semester Pengembangan Aplikasi Web, Informatika ITERA, s
 
 **Soal, contoh kode, panduan, rubrik, ketentuan, dan materi: https://uts-paw.mhabibalgifari.web.id**
 
-| 
-## README milikmu
-
-Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Kerangka berikut boleh dipakai:
-
 
 # Nama Aplikasi
 
@@ -50,20 +45,16 @@ cd app
 npm install
 npm run dev
 
-## Konsep React yang dipakai
+## Konsep React yang Dipakai
 
-- Component: Membagi tampilan aplikasi menjadi beberapa bagian.
-- Props: Mengirimkan data antar komponen.
-- useState: Mengelola perubahan data.
-- useEffect: Menjalankan proses ketika komponen ditampilkan atau data berubah.
-- Context API: Membagikan data ke beberapa komponen.
-- Custom Hook: Membuat fungsi hook sendiri.
+- Component: Membuat tampilan aplikasi menjadi beberapa bagian.
+- Props: Mengirim data ke komponen lain.
+- useState: Menyimpan dan mengubah data.
+- useEffect: Menjalankan fungsi saat halaman dibuka.
+- Context API: Menghubungkan data antar komponen.
+- Custom Hook: Membuat fungsi sendiri untuk mengelola data.
 - React Router: Mengatur perpindahan halaman.
-- useParams: Mengambil parameter dari URL.
-- useNavigate: Melakukan navigasi halaman.
-- NavLink dan Link: Membuat tautan antarhalaman.
 - Fetch API: Mengambil data dari file JSON.
-- Async/Await: Mengatur proses pengambilan data.
-- Conditional Rendering: Menampilkan halaman sesuai kondisi.
-- Array Method: Menggunakan map, filter, dan reduce untuk mengolah data.
+- Async/Await: Membantu proses mengambil data.
+- Array Method: Mengolah data menggunakan map, filter, dan reduce.
 ```
