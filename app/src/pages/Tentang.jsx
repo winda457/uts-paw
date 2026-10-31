@@ -1,7 +1,7 @@
 import mahasiswa from '../../mahasiswa.json'
 
 // Ganti dengan alamat repo fork kamu.
-const REPO = 'https://winda457.github.io/uts-paw'
+const REPO = 'https://github.com/winda457/uts-paw.git'
 
 export default function Tentang() {
   const { nama, nim, kelas, tema } = mahasiswa
